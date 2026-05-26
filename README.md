@@ -1,4 +1,4 @@
-<img width="3470" height="166" alt="image" src="https://github.com/user-attachments/assets/98007ff5-356e-437b-a2c2-03710cdbf62e" /># TacInsert
+# TacInsert
 
 [![IsaacSim 5.1.0](https://img.shields.io/badge/IsaacSim-5.1.0-silver.svg)](https://docs.isaacsim.omniverse.nvidia.com/latest/index.html)
 [![IsaacSim 5.0.0](https://img.shields.io/badge/IsaacSim-5.0.0-silver.svg)](https://docs.isaacsim.omniverse.nvidia.com/latest/index.html)
