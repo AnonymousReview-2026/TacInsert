@@ -1,4 +1,4 @@
-# TacInsert
+<img width="3470" height="166" alt="image" src="https://github.com/user-attachments/assets/98007ff5-356e-437b-a2c2-03710cdbf62e" /># TacInsert
 
 [![IsaacSim 5.1.0](https://img.shields.io/badge/IsaacSim-5.1.0-silver.svg)](https://docs.isaacsim.omniverse.nvidia.com/latest/index.html)
 [![IsaacSim 5.0.0](https://img.shields.io/badge/IsaacSim-5.0.0-silver.svg)](https://docs.isaacsim.omniverse.nvidia.com/latest/index.html)
@@ -21,7 +21,7 @@ TacInsert is an Isaac Lab project for force-conditioned, contact-rich peg-in-hol
 The codebase accompanies the paper:
 
 ```text
-TacInsert: Force-Conditioned Sim-to-Real RL for Ultra-Tight Precision Insertion
+TacInsert: Force-Conditioned Sim-to-Real RL for Contact-Rich Precision Insertion
 ```
 
 ![TacInsert overview](docs/figures/tacinsert_overview.png)
